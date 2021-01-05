@@ -1,0 +1,9 @@
+<span id="a">noob@cyberspace</span>:<span id="b">~</span><span id="c">#</span>cd /About_Me
+<span id="a">root@thihzaw</span>:<span id="b">~</span><span id="c">#</span>whoami
+<span id="a">root@thihzaw</span>:<span id="b">~</span><span id="c">#</span>noob
+<span id="a">root@thihzaw</span>:<span id="b">~</span><span id="c">#</span>./whatsreality<br/><br/>
+
+My favorite code quote, "<span id="k"> I stole this code form ko tayfun. </span>".
+
+
+<p>Thank! </p>
