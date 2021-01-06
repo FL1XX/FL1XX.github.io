@@ -3,7 +3,7 @@
 <span id="a">flix@cyberspace</span>:<span id="b">~</span><span id="c">#</span>r00t
 <span id="a">flix@cyberspace</span>:<span id="b">~</span><span id="c">#</span>./whatsreality<br/><br/>
 
-you ever wondered? : "<p> If real is what you can feel, smell, taste and see, then 'real' is simply electrical signals interpreted by your brain. </p>".
+<span id="c">you ever wondered?</span> <span id="b">:</span> "<p> If real is what you can feel, smell, taste and see, then 'real' is simply electrical signals interpreted by your brain. </p>".
 
 
 "<span id="k"> N0W G3T TH3 FUCK 0FF! </span>".
